@@ -21,9 +21,7 @@ body {
 
 .stats-container {
     display: flex;
-    -ms-flex-align: center;
     align-self: center;
-    justify-content: space-around;
 }
 
 .stats-container:hover {
@@ -59,7 +57,7 @@ body {
 .game-card {
     background-color: #FFFFFF;
     padding: 1%;
-    margin: 1%;
+    margin: 0.75%;
     width: 300px;
     text-align: center;
     border-radius: 7px;
@@ -80,4 +78,5 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: white;
 }
