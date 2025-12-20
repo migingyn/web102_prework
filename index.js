@@ -200,3 +200,9 @@ firstGameContainer.appendChild(firstGameName);
 const secondGameName = document.createElement("p");
 secondGameName.innerHTML = `${secondGame.name}`;
 secondGameContainer.appendChild(secondGameName);
+
+/************************************************************************************
+ * Additional: Modify
+ * 
+ */
+
